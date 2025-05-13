@@ -1,0 +1,17 @@
+char c = '\x01';      // caractère dont le code ASCII est 1
+short int p = 10; 
+
+Donc c = 1 et p = 10
+
+x = p + 3 
+x = 13 -> int
+
+y = c + 1 
+y = 2 -> int
+
+z = p + c
+z = 11 -> int
+
+w = 3 * p + 5 * c
+w = 35 -> int
+
